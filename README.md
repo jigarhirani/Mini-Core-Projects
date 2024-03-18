@@ -1,0 +1,2 @@
+# Mini Core Projects
+ Mini Core Projects is a curated collection of compact and functional ASP.NET Core projects, meticulously crafted to provide simple yet robust solutions. Each project serves as a miniature showcase of essential features and techniques, offering valuable insights for developers embarking on larger endeavors. Whether you're a novice seeking to grasp ASP.NET Core fundamentals or an experienced developer in need of quick references, this repository is your gateway to streamlined learning and efficient development.
