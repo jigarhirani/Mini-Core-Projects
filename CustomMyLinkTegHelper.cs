@@ -4,7 +4,7 @@ namespace MiniCoreProjects
 {
     public class CustomMyLinkTegHelper : TagHelper
     {
-        public string MyWeb { get; set; }
+        public string? MyWeb { get; set; }
 
         public override void Process(TagHelperContext context, TagHelperOutput output)
         {
