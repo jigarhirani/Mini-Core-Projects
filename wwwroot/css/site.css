@@ -1,0 +1,42 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+//Search Css
+
+.search-results {
+    margin-top: 10px;
+}
+
+.result-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+    .result-item:last-child {
+        border-bottom: none;
+    }
+
+.result-link {
+    color: #1a0dab; /* Google Blue */
+    text-decoration: none;
+    font-size: 16px;
+}
+    .result-link:hover {
+        text-decoration: underline;
+    }   
