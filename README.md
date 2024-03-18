@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="#">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jigarhirani/Badges4-README.md-Profile?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jigarhirani/Mini-Core-Projects?style=for-the-badge">
 </a>&nbsp;&nbsp;
 </p>
 
