@@ -41,7 +41,7 @@ To run any of the projects:
   Download the project repository from GitHub.
 
 ```bash
-  git clone https://github.com/yourusername/MiniCoreProjects.git
+  git clone https://github.com/jigarhirani/Mini-Core-Projects.git
 ```
 
 2. Navigate to the specific project directory.
